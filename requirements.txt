@@ -1,7 +1,7 @@
 streamlit
 supabase
-ultralytics
-opencv-python-headless
+ultralytics==8.1.0
+opencv-python-headless==4.8.0.74
 pandas
 qrcode
 fpdf
