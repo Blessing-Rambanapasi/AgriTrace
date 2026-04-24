@@ -1,1 +1,7 @@
-
+streamlit
+supabase
+ultralytics
+opencv-python-headless
+pandas
+qrcode
+fpdf
